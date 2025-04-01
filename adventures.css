@@ -43,6 +43,14 @@ h3 {
     margin: 40px 0;
     font-size: 2rem;
     color: #333;
+    color: rgb(0, 0, 0);
+}
+
+.sub-heading{
+    text-align: center;
+    margin: 20px 0;
+    font-size: 1.5rem;
+    color: #333;
     color: white;
 }
 
@@ -52,7 +60,7 @@ h3 {
 }
 .events-section {
     padding: 20px;
-    background-color: #8b4154;;
+    background-color: #8b4154;
 }
 
 .events-container {
@@ -62,7 +70,7 @@ h3 {
 }
 
 .event-card {
-    background-color: brown;
+    background-color: rgb(255, 255, 255);
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 400px;
